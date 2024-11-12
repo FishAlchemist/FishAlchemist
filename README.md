@@ -1,4 +1,7 @@
 ## Hi I'm FishAlchemist 👋
+
+Hello, I am currently new to participating in the community
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48265002" target="_blank" style="display: block" align="center">
